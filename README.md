@@ -1,39 +1,6 @@
-
 👋 Hello, I'm Ihantsa RAKOTONDRANAIVO
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer from Madagascar with a love for technology, programming, and design. Here you'll find a collection of my projects, from automation tools to web applications and beyond. Feel free to explore and connect!
-
-
-
-🚀 About Me
-
-💻 Full-Stack Developer with a year of experience
-
-🌐 Currently studying Informatique, Risques et Décisions at the École Supérieure de Management et de l'Informatique Appliquée
-
-🧠 AI & Graphic Design Enthusiast with 7 years of experience
-
-📚 Learning JavaScript and ReactJS
-
-
-
-
-🛠️ Technologies & Tools
-
-Languages: Java, JavaScript, PHP, HTML, CSS
-
-Frameworks: ReactJS
-
-Tools: Bootstrap Studio, Visual Studio Code, GitHub
-
-Other: Docker, Linux, Windows
-
-
-
-
-📈 Stats
-
-
+Welcome to my GitHub profile!
 
 
 📫 Contact Me
