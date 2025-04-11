@@ -10,12 +10,12 @@
 
 
 <h2>Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=ihantsa000&column=3&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=IhantsaFana&column=3&margin-w=15&margin-h=15" />
 
 
 <h2>Blog</h2>
 定期的に技術ブログを発信しています。  We regularly publish a technical blog.
-<h3><a href="https://bellfat.com/ja-gb/">MyBlog</a></h3>
+<h3><a href="https://oeka.vercel.app/">My Portfolio</a></h3>
 
 <br><br>
 
