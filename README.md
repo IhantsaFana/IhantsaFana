@@ -19,4 +19,4 @@
 
 <br><br>
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=ihantsa000" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/ihantsa000?color=blue&label=GitHub%20followers&logo=GitHub"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ihantsa000?label=Star&logo=GitHub">
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=IhantsaFana&color=green" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/IhantsaFana?color=blue&label=GitHub%20followers&logo=GitHub"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/IhantsaFana?label=Star&logo=GitHub">
