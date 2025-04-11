@@ -1,22 +1,22 @@
-👋 Hello, I'm Ihantsa RAKOTONDRANAIVO
-
-Welcome to my GitHub profile!
 
 
-📫 Contact Me
-
-Email: ihantsarakotondranaivo@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/ihantsa-rakotondranaivo-4693112b9
-
-Facebook : https://facebook.com/ihantsarakotondranaivo
+<h2>States</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=suzusou&count_private=true&show_icons=true&theme=while" />
+<img alt="status" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihantsa000&theme=default" />
 
 
+<h2>Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihantsa000&theme=whileshow_icons=ture" />
 
 
-💬 Let's Connect!
+<h2>Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=ihantsa000&column=3&margin-w=15&margin-h=15" />
 
-I'm always open to discussing new projects, collaborations, or just chatting about tech. Feel free to drop me a message or connect with me on social media!
 
-Thanks for visiting my GitHub profile! I hope you find my projects interesting and useful.
+<h2>Blog</h2>
+定期的に技術ブログを発信しています。  We regularly publish a technical blog.
+<h3><a href="https://bellfat.com/ja-gb/">MyBlog</a></h3>
 
+<br><br>
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=ihantsa000" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/ihantsa000?color=blue&label=GitHub%20followers&logo=GitHub"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ihantsa000?label=Star&logo=GitHub">
