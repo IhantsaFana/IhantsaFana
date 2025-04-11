@@ -6,7 +6,7 @@
 
 
 <h2>Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihantsa000&theme=whileshow_icons=ture" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhantsaFana&theme=whileshow_icons=ture" />
 
 
 <h2>Trophies</h2>
