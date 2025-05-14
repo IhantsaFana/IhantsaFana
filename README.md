@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IhantsaFana&color=green" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/IhantsaFana?color=blue&label=Followers&logo=GitHub" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/IhantsaFana?label=Stars&logo=GitHub" alt="GitHub User's stars" />
+  <img src="[https://img.shields.io/github/followers/IhantsaFana?color=blue&label=Followers&logo=GitHub](https://img.shields.io/github/followers/IhantsaFana?color=blue&label=Followers&logo=GitHub)" alt="GitHub followers" />
+  <img src="[https://img.shields.io/github/stars/IhantsaFana?label=Stars&logo=GitHub](https://img.shields.io/github/stars/IhantsaFana?label=Stars&logo=GitHub)" alt="GitHub User's stars" />
 </p>
 
 ---
