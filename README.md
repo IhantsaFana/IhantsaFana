@@ -10,10 +10,11 @@
 
 ## 🔍 About Me
 
+- **Full Name**: Ihantsa RAKOTONDRANAIVO
 - **Totem Scout**: OEKA Mikofo
 - **Languages**: Python, Dart, JavaScript
 - **Fields**: AI/ML, Web & Mobile Dev
-- **Tools**: Flutter, Django, React, YOLO, Tesseract, Gemini
+- **Tools**: Flutter, Django, React, YOLO, Tesseract, Gemini, Open-ai
 - **Fun Fact**: I like making smart systems talk to each other.
 
 ---
