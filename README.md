@@ -12,7 +12,7 @@
 
 - **Full Name**: Ihantsa RAKOTONDRANAIVO
 - **Languages**: Python & JavaScript
-- **Fields**: AI/ML, Web & Mobile Dev
+- **Fields**: Data science and Artificial Intelligence
 - **Tools**: Flutter, Django, React, YOLO, Tesseract, Gemini, Open-ai
 - **Fun Fact**: I like making smart systems talk to each other.
 
@@ -80,7 +80,7 @@
 
 ## ✍️ Blog & Portfolio
 
-- I regularly publish tech content.
+- I publish tech content. [<a href="https://oeka.vercel.app/" target="_blank">https://oeka.vercel.app/en/</a>]
 - Check out my work & writings:
 
-<h3><a href="https://oeka.vercel.app/" target="_blank">Visit My Portfolio</a></h3>
+<h3><a href="https://oeka.vercel.app/" target="_blank">https://oeka.vercel.app/en/</a></h3>
