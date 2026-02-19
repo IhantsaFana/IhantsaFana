@@ -80,7 +80,7 @@
 
 ## ✍️ Blog & Portfolio
 
-- I publish tech content. [<a href="https://oeka.vercel.app/" target="_blank">https://oeka.vercel.app/en/</a>]
+- I publish tech content. [<a href="https://oeka.vercel.app/" target="_blank">https://oeka.vercel.app/en/blog/</a>]
 - Check out my work & writings:
 
-<h3><a href="https://oeka.vercel.app/" target="_blank">https://oeka.vercel.app/en/</a></h3>
+<h3><a href="https://oeka.vercel.app/" target="_blank">My portfolio</a></h3>
