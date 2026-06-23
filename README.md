@@ -35,7 +35,7 @@ ihantsa = {
     "education" : "M1 Intelligence Artificielle @ EMIT Fianarantsoa",
     "languages" : ["Python", "JavaScript", "TypeScript"],
     "stack"     : ["React", "Django", "Flutter", "NestJS", "n8n", "Make"],
-    "ai_tools"  : ["OpenAI", "Gemini", "YOLO", "Tesseract", "LangChain"],
+    "ai_tools"  : [ "Pandas", "YOLO", "Tesseract", "LangChain", "OpenAI", "Gemini",],
     "passions"  : ["automation", "smart systems", "digital tourism", "scouting 🏕️", "singing 🎵"],
     "fun_fact"  : "I make systems talk to each other — and occasionally to God 🙏"
 }
